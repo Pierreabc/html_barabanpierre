@@ -6,8 +6,8 @@ let elt = document.getElementById("conteneur");
 
 elt.appendChild(newElt);
 
-const newElt2 = document.createElement("div");
 elt.appendChild(newElt2);
 
-let elt = document.getElementById('conteneur');
-elt.innerHTML = "<ul><li>Element1</li><li>Element2</li></ul>"
+const newElt2 = document.createElement("div");
+let elt2 = document.getElementById('conteneur');
+elt2.innerHTML = "<ul><li>Element1</li><li>Element2</li></ul>"
