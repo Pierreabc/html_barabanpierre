@@ -22,7 +22,7 @@ let objJson = {
     taille : 170
 }
 
-let objLinea = JSON.stringify(objson);
+let objLinea = JSON.stringify(objJson);
 localStorage.setItem("obj",objLinea);
 
 localStorage.getItem("obj");
