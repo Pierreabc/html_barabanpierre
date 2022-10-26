@@ -1,4 +1,4 @@
-var str = ""
+var str = "file:///Users/p_baraban/Desktop/html_barabanpierre/"
 
 var url = new URL(str);
 
